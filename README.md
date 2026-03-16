@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Angelo-Eduard Stanciu
 
-<!--
-**angelostanciu1/angelostanciu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Automation & Cybersecurity Enthusiast | Tines Core Certified
 
-Here are some ideas to get you started:
+I am a results-driven tech professional focused on streamlining security operations through automation. I bridge the gap between software development and cybersecurity to build efficient, secure workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Currently focusing on:** Advanced SOAR automation and Incident Response.
+- 🎓 **Certifications:** Tines Core Certified.
+- 💡 **Mindset:** Always learning, adapting, and open to new technical challenges.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Automation:** Tines (SOAR), Workflow Orchestration.
+- **Languages:** Python (Basic/Intermediate), Bash.
+- **Tools:** Git, GitHub, Security Operations Tools.
+
+---
+
+### 📈 GitHub Stats
+![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelostanciu1&show_icons=true&theme=dark)
+
+📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/angelo-eduard-stanciu-b08a783a6)
